@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Zubair Khan 👋
 
-<!--
-**zubair-khan-Eng/zubair-khan-Eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 MERN Stack Developer from Peshawar, Pakistan
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- ⚛️ React.js
+- 🟢 Node.js
+- 🍃 MongoDB
+- 🚂 Express.js
+- 🌐 JavaScript | HTML | CSS
+- 🔧 Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Currently
+- Building MERN Stack projects
+- Open to Work 🚀
+
+## 📫 Contact Me
+- 💼 LinkedIn: [Zubair Khan](https://linkedin.com/in/zubair-khan-1a384b2b4)
+- 📧 zubairkhanicp@gmail.com
+- 📱 +923045422601
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zubair-khan-Eng&show_icons=true&theme=tokyonight)
